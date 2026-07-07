@@ -76,7 +76,7 @@ fire_gdf["Intensity"]
 
 ## 3. Number of susceptibility classes
 
-Current implementation uses
+Current implementation uses 3 hazard classes from the intensity field and 1 non-hazard class based on the random selection
 
 ```python
 num_class = 4
