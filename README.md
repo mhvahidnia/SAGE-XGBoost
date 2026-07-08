@@ -244,7 +244,7 @@ The notebook reports
 
 If you use this implementation in your research, please cite:
 
-*Vahidnia, M.H. (2026). SAGE-XGBoost: Spatially Augmented Graph Embeddings–Machine Learning Framework for Natural Hazards Susceptibility Mapping under Data Scarcity. Geomatica.*
+### *Vahidnia, M.H. (2026). SAGE-XGBoost: Spatially Augmented Graph Embeddings–Machine Learning Framework for Natural Hazards Susceptibility Mapping under Data Scarcity. Geomatica. (Submitted)*
 
 ---
 
