@@ -1,6 +1,6 @@
 # SAGE-XGBoost
 
-### Spatially Augmented Graph-Embedded XGBoost (NOTEBOOK: SAGE-XGBoost.ipynb)
+### Spatially Augmented Graph Embeddings--XGBoost (NOTEBOOK: SAGE-XGBoost.ipynb)
 
 This repository contains the official implementation of **SAGE-XGBoost**, a machine-learning framework designed to improve susceptibility mapping when only limited labeled samples are available. The framework combines:
 
